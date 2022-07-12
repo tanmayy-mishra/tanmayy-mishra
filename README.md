@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanmayy-mishra
-- 👀 I’m interested in learnig new things
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning how github works
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
